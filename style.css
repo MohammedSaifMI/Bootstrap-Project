@@ -1,0 +1,114 @@
+body
+{
+    background: url("https://images.pexels.com/photos/7001709/pexels-photo-7001709.jpeg?auto=compress&cs=tinysrgb&w=1900");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav-link
+{
+    color: white;
+        
+    text-align: center;
+}
+.active, .nav-link:hover
+{
+    color: yellow !important;
+}
+.sec1
+{
+    height: 100vh;
+ 
+}
+.sec2
+{
+    height: 50vh;
+   
+}
+.sec3
+{
+    height: 60vh;
+    background-image: url("https://images.pexels.com/photos/4609264/pexels-photo-4609264.jpeg?auto=compress&cs=tinysrgb&w=1900");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.sec4
+{
+
+    height: 50px;
+}
+.sec5
+{
+    height: fit-content;
+    background-color: #152040;
+}
+.sec6
+{
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/15763644/pexels-photo-15763644/free-photo-of-scuba-divers-in-masks-snorkeling-underwater.jpeg?auto=compress&cs=tinysrgb&w=1900");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec7
+{
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/8849695/pexels-photo-8849695.jpeg?auto=compress&cs=tinysrgb&w=1900");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec8
+{
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/8029852/pexels-photo-8029852.jpeg?auto=compress&cs=tinysrgb&w=1900");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec9
+{
+    
+    height: fit-content;
+
+}
+.sec10
+{
+    height: 80vh;
+    background-image: url("https://images.pexels.com/photos/3361052/pexels-photo-3361052.jpeg?auto=compress&cs=tinysrgb&w=1900");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.sec12
+{
+    height: 60vh;
+    background-color: #152040;
+}
+
+.sec14
+{
+    height: fit-content;
+    
+}
+li
+{
+text-decoration: none !important;
+}
+
+.sec16 input,.form-control 
+{
+    
+    border: none;
+    border-radius: 0px;
+    background: none;
+    border-bottom: 2px solid #152040 ;
+}
+
+.sec17
+{
+    height: 20vh;
+    background-color: #152040;
+}
